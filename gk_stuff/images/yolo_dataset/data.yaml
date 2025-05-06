@@ -1,0 +1,5 @@
+path: c:\Users\karth\OneDrive\Documents\GitHub\Solar_git\gk_stuff\images\yolo_dataset
+train: images/train
+val: images/val
+names:
+  0: sun

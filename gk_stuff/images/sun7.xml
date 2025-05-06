@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>sun7.jpg</filename>
+	<path>C:\Users\karth\OneDrive\Documents\GitHub\Solar_git\gk_stuff\images\sun7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1204</width>
+		<height>821</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>sun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>480</xmin>
+			<ymin>735</ymin>
+			<xmax>507</xmax>
+			<ymax>758</ymax>
+		</bndbox>
+	</object>
+</annotation>
